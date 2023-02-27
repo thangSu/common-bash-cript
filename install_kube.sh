@@ -66,4 +66,3 @@ sudo containerd config default>/etc/containerd/config.toml
 # restart containerd
 sudo systemctl restart containerd
 sudo systemctl enable containerd
-systemctl status  containerd
